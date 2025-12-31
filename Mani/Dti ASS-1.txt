@@ -1,0 +1,16 @@
+#include<stdio.h> 
+int main() 
+{
+	int age=22;
+	char name[]="Manikanta";
+    char country[]="india";
+	printf("age is:%d\n",age);
+
+	printf("name is:%s\n",name);
+   
+	printf("country is:%s\n",country);
+  
+}
+
+
+
